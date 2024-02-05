@@ -1,0 +1,1 @@
+This is just small concept of DOM which we need to know
