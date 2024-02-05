@@ -1,0 +1,22 @@
+/* h1{
+    font-size: 20px;
+    color: red;
+} */
+
+
+#bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+button{
+    padding:10px 30px;
+    margin: 50px;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 800;
+}
